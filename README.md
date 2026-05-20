@@ -1,3 +1,3 @@
 # CircleAndTriangle
 Here is the animation preview:
-https://github.com/codingbysaikat/CircleAndTriangle/blob/main/CircleAndTriangle.mp4
+<video src="CircleAndTriangle.mp4" controls width="700"></video>
